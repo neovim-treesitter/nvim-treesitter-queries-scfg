@@ -1,7 +1,7 @@
 {
+  "semver": false,
+  "parser_version": "d850fd470445d73de318a21d734d1e09e29b773c",
   "location": null,
   "lang": "scfg",
-  "url": "https://github.com/rockorager/tree-sitter-scfg",
-  "semver": false,
-  "parser_version": "d850fd470445d73de318a21d734d1e09e29b773c"
+  "url": "https://github.com/rockorager/tree-sitter-scfg"
 }
